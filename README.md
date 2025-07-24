@@ -10,3 +10,13 @@ This project checks the current position of the ISS using the Open Notify API, c
 3. Checks if it’s currently night at your location.
 
 4. If both are true, sends an email alert using SMTP.
+
+🧩  Replace the placeholders:
+
+Email → your email address.
+
+Password → your email app password.
+
+MY_LAT and MY_LONG → your latitude & longitude.
+
+to_addrs → the recipient email address.
